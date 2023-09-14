@@ -6,7 +6,7 @@ First, Run the backend server:
 
 ```  py -m flask --app server run ```
 
-Open [http://127.0.0.1:5000](http://127.0.0.1:5000) with browser to see the result. 
+Open [http://127.0.0.1:8080](http://127.0.0.1:8080) with browser to see the result. 
 
 Then, run the client development server:
 
