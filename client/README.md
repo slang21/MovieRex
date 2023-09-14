@@ -2,7 +2,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, Run the backend server: 
+
+```  py -m flask --app server run ```
+
+Open [http://127.0.0.1:5000](http://127.0.0.1:5000) with browser to see the result. 
+
+Then, run the client development server:
 
 ```bash
 npm run dev
